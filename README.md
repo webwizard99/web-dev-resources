@@ -2,13 +2,13 @@
 A list of resources for learning to be a web developer
 
 ## General advice/ guidance
--- Learn about important web dev topics with [Cracking the Front End Interview](https://medium.freecodecamp.org/cracking-the-front-end-interview-9a34cd46237)
+- Learn about important web dev topics with [Cracking the Front End Interview](https://medium.freecodecamp.org/cracking-the-front-end-interview-9a34cd46237)
  including what subjects to study in CSS, HTML, and JavaScript
  
- -- Get an overview of what [skills a web developer needs](https://github.com/kamranahmedse/developer-roadmap) 
+ - Get an overview of what [skills a web developer needs](https://github.com/kamranahmedse/developer-roadmap) 
  with this developer roadmap
  
- -- Find a community Slack channel where you can [connect to programmers in your area](https://github.com/ladyleet/tech-community-slacks)
+ - Find a community Slack channel where you can [connect to programmers in your area](https://github.com/ladyleet/tech-community-slacks)
  
 
 

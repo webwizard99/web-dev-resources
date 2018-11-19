@@ -7,6 +7,9 @@ A list of resources for learning to be a web developer
  
  -- Get an overview of what [skills a web developer needs](https://github.com/kamranahmedse/developer-roadmap) 
  with this developer roadmap
+ 
+ -- Find a community Slack channel where you can [connect to programmers in your area](https://github.com/ladyleet/tech-community-slacks)
+ 
 
 
 ## JavaScript

@@ -10,7 +10,7 @@ A list of resources for learning to be a web developer
  
  - Find a community Slack channel where you can [connect to programmers in your area](https://github.com/ladyleet/tech-community-slacks)
  
- - Get some [general guidance on becomming a self-taught programmer](https://dev.to/aspittel/25-tips-for-new-developers-advice-from-a-mostly-self-taught-software-engineer-1ff1) from a (mostly) self-taught programmer.
+ - Get some [general guidance on becoming a self-taught programmer](https://dev.to/aspittel/25-tips-for-new-developers-advice-from-a-mostly-self-taught-software-engineer-1ff1) from a (mostly) self-taught programmer.
  
 - Get a good start and general overview of web programming with [Codecademy's Build Websites From Scratch Intensive](https://www.codecademy.com/pro/intensive/build-websites-from-scratch). Tip: be as active as possible in Slack and make some coding contacts!
 

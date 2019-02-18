@@ -23,3 +23,21 @@ with this video from Fun Fun Function, an excellent web dev YouTube channel.
 - From initiate to pro, learn JS with [the Complete JavaScript course](https://www.udemy.com/the-complete-javascript-course/?start=0)
 by Jonas Schmedtmann, which explains how JavaScript works behind the scenes, how to structure your programs, how to deploy. Truly complete!
 
+
+## Cheat Sheets
+
+-- Find that [git command you need](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf?fbclid=IwAR0gp_TcMZQltzSrzYgI0iSdoMNwSc2hqUSy57_AFWHdvonZlt5pkTsJE5E) with the github cheat sheet.
+
+-- Get help with [HTML, CSS, and JavaScript](https://htmlcheatsheet.com/css/) with the htmlcheatsheet.
+
+-- Get [clarity on flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) with this guide to flexbox, an extremely useful tool for positioning and responsive design.
+
+-- Find the [boilerplate for your Bootstrap elements](https://hackerthemes.com/bootstrap-cheatsheet/) with this Bootstrap cheatsheet.
+
+
+## Career Search Guidance
+
+- Get advice on shaping your [resume, portfolio, and how to interview](https://www.youtube.com/channel/UC-91UA-Xy2Cvb98deRXuggA) on Josh Fluke's YouTube channel
+
+- Find [meetups with local programmers](https://www.meetup.com/) where you can find guidance and possibly a mentor at meetup.com.
+
